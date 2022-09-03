@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "price":50,
+        "name": "MACBOOK",
+        "quantity":1000,
+        "suppliername":"A.Rahman",
+        "email": "abc@dbc.com",
+        "details": " Trade-in values will vary based on the condition, year, and configuration of your eligible trade-in device. Not all devices are eligible for credit. You must be at least 18 years old to be eligible to trade in for credit or for an Apple Gift Card.",
+        "img": "https://i.ibb.co/S3g0PST/extra-1.jpg"
+    },
+    {
+        "id": 2,
+        "price":30,
+        "name": "iPHONE",
+        "quantity":1000,
+        "suppliername":"A.Rahman",
+        "email": "abc@dbc.com",
+        "details": "Everything you love about an Apple in our Warehouse: all the products, personal shopping help, trade-in, flexible payment options, and expert support.",
+        "img": " https://i.ibb.co/f1X0QTp/extra-2.jpg"
+    },
+    {
+        "id": 3,
+        "price":60,
+        "name": "ANDROID",
+        "quantity":1000,
+        "suppliername":"A.Rahman",
+        "email": "abc@dbc.com",
+        "details": "Get a cheap phone contract warehouse for the mobile you really want with our pay monthly phone deals. Check out our latest service contracts with easy monthly payments.",
+        "img": "https://i.ibb.co/ZzGzfwr/extra-3.jpg"
+    },
+    {
+        "id": 4,
+        "price":90,
+        "name": "LCD-MONITOR",
+        "quantity":1000,
+        "suppliername":"A.Rahman",
+        "email": "abc@dbc.com",
+        "details": "Sent data directly from your WMS to your IPdisplays' LCD/LED Display. Send real-time data to inform smart decisions and improve efficiency and productivity.",
+        "img": "https://i.ibb.co/mXcBZCq/extra-5.jpg"
+    },
+    {
+        "id": 5,
+        "price":35,
+        "name": "iPAD",
+        "quantity":1000,
+        "suppliername":"A.Rahman",
+        "email": "abc@dbc.com",
+        "details": " Get extra trade-in credit when you trade in an eligible iPhone, iPad, Mac, or Apple Watch and purchase a new Apple device through May 31, 2022.",
+        "img": "https://i.ibb.co/FgT6j6w/extra-6.jpg"
+    },
+    {
+        "id": 6,
+        "price":55,
+        "name": "i-ACCESSORIES",
+        "quantity":1000,
+        "suppliername":"A.Rahman",
+        "email": "abc@dbc.com",
+        "details": "Our accessories are designed, engineered, and built for Mac, iPad, and iPhone – and we're obsessed with creating devices that don't just complement the Apple.",
+        "img": "https://i.ibb.co/6gYPDqm/extra-4.jpg"
+    }
+]

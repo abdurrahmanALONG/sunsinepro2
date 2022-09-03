@@ -1,0 +1,19 @@
+.productshow {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    /* margin-left: 10px;
+    margin-right: 10px; */
+}
+
+
+/* make  responsive */
+@media only screen and (max-width:576px) {
+    .productshow {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+.card img {
+    max-height: 202px;
+}
