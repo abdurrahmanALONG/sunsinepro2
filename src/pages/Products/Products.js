@@ -9,7 +9,7 @@ const Products = () => {
 
     const [items, setItems] = useState([]);
     useEffect(() => {
-        fetch('http://localhost:5000/products')
+        fetch('https://sunsineprotwo.herokuapp.com/products')
             .then(res => res.json())
             .then(data => setItems(data));
     }, [])
@@ -17,7 +17,7 @@ const Products = () => {
     const handelDelete = id => {
         const proceed = window.confirm('Are you sure?');
         if (proceed) {
-            const url = `http://localhost:5000/products/${id}`;
+            const url = `https://sunsineprotwo.herokuapp.com/products/${id}`;
             fetch(url, {
                 method: 'DELETE'
             })
