@@ -1,17 +1,11 @@
-
 import React from 'react';
 
-const Loding = () => {
+const Loading = () => {
     return (
-        <div>
-            <div class="flex items-center justify-center space-x-2">
-                <div class="spinner-border animate-spin inline-block w-12 h-12 border-4 rounded-full" role="status">
-                    <span class="visually-hidden"></span>
-                </div>
-               
-            </div>
+        <div className="flex items-center justify-center ">
+            <div className="w-16 h-16 border-b-2 border-gray-900 rounded-full animate-spin"></div>
         </div>
     );
 };
 
-export default Loding;
+export default Loading;
